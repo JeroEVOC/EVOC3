@@ -1,1 +1,12 @@
-dfsyutdtydcg
+les commandes pour git:
+configurer le nom : git config --global user.name "votre_pseudo"
+configurer l'email : git config --global user.email moi@email.com
+
+git init
+
+# ajouter les fichiers et faire 
+git add .
+
+git commit - m "le message"
+
+git push -u origin master
